@@ -1,0 +1,50 @@
+.Card{
+    margin: 20px 100px;
+    background: salmon;
+    width: 300px;
+    height: auto;
+    margin: 5px;
+    border: 1px dotted lightblue;
+    padding: 10px;
+    color: white;
+    box-shadow: 2px 3px 3px slateblue;
+    display: inline-block;
+}
+
+.Card p{
+    position: relative;
+    border: 2px solid black; 
+    padding: 50px; 
+    text-align: center;
+    font-size: 40px;
+}
+
+.Card h1{
+    text-align: center;
+    color:maroon;    
+}
+
+.button1{
+    background: green;
+    color: pink;
+    padding: 30px 40px;
+    font-size: 30px;
+}
+
+.button2{
+    background-image: url(./refresh.jpg);
+    background-size: contain;
+    background-position: center;
+    padding: 57px 45px 37px 45px;
+}
+
+.button3{
+    background: maroon;
+    color: yellow;
+    padding: 30px 45px;
+    font-size: 30px;
+}
+
+.change{
+    background-color: purple;
+}
